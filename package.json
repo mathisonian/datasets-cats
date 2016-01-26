@@ -1,0 +1,24 @@
+{
+  "name": "datasets-cats",
+  "version": "1.0.0",
+  "description": "A dataset of about cats. Contains info on sex (M/F), body weight (kg), and heart weight (g) for 144 cats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathisonian/datasets-cats.git"
+  },
+  "keywords": [
+    "cats",
+    "data",
+    "datasets"
+  ],
+  "author": "Matthew Conlen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathisonian/datasets-cats/issues"
+  },
+  "homepage": "https://github.com/mathisonian/datasets-cats#readme"
+}
